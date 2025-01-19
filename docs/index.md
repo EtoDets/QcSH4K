@@ -11,8 +11,11 @@ hero:
       text: Template Repository
       link: "https://github.com/61040-fa23/vitepress-template"
     - theme: alt
-      text: Example Site
-      link: "https://61040-fa23.github.io/portfolio-adamjanicki2/"
+      text: Замена букв
+      link: "https://etodets.github.io/"
+    - theme: alt
+      text: Site
+      link: "https://etodets.github.io/site1/index.html"
 
 features:
   - title: Blogs
