@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
-  description: "6.1040 Fall 2023",
+  title: "Bookmarks",
+  description: "Bookmark site & FAQ",
   // TODO: add your base here; this should be your repo name!
   base: "/QcSH4K/",
   themeConfig: {
